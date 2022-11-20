@@ -14,5 +14,5 @@ if (number % 2 == 0)
 }
 else
 {
-    Console.WriteLine("Не четное ");
+    Console.WriteLine("Нечетное ");
 }
