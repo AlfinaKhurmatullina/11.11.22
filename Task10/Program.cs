@@ -6,7 +6,7 @@
 
 Console.Clear();
 Console.WriteLine("введите трехзначное число: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine ());
 int xnumber = (number % 100); xnumber /=10 ;
 Console.WriteLine(xnumber);
 
